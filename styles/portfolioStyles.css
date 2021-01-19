@@ -2,5 +2,9 @@
 /* CSS Document */
 
 body {
-    color: #13AE0D;
+    color: #000000;
+}
+#wrapper {
+    background-color: #0BA426;
+    border-width: 1200px;
 }
