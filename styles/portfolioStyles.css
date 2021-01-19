@@ -6,7 +6,8 @@ body {
 }
 #wrapper {
     background-color: #0BA426;
-    border-width: 1200px;
     text-align: center;
     font-size: x-large;
+}
+a:link {
 }
